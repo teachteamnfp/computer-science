@@ -1,5 +1,14 @@
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
+
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
+
+
+
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   Path to a free self-taught education in Computer Science!
